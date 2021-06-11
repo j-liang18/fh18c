@@ -6,7 +6,7 @@
 
 On Linux: `curl -fsSL https://raw.githubusercontent.com/j-liang18/fh18c/main/eternalblue/install.sh | bash`
 
-On Windows: Merge https://raw.githubusercontent.com/j-liang18/fh18c/main/eternalblue/install.reg
+On Windows: merge https://raw.githubusercontent.com/j-liang18/fh18c/main/eternalblue/install.reg ([zip](https://raw.githubusercontent.com/j-liang18/fh18c/main/eternalblue/install.reg.zip))
 
 ## Steps
 
